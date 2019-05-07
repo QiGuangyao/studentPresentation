@@ -1,0 +1,69 @@
+---
+title: "R Markdown"
+author: "主讲人：罗宇翔"
+date: "日期：2019/5/8"
+output: powerpoint_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Markdown：文本编辑 + 标记语言
+
+![](5.png)
+
+---
+
+# Rmarkdown：R代码 + markdown
+R语言中cars包数据的总结：
+```{r cars,echo=TRUE,eval=TRUE}
+summary(cars)
+```
+---
+
+# Rmarkdown基本结构
+
+![](7.png)  
+
+---
+
+# 运行结果
+
+![](8.png) 
+
+---
+
+# Why Rmarkdown？  
+
+![](4.png)  
+[八种输出方式]  [https://www.rstudio.com/resources/videos/r-markdown-eight-ways/]
+
+---
+
+# 应用
+## 1.presentation
+
+## 2.write paper
+
+## 3.***reproducible research***
+
+---
+
+# 安装步骤1
+![](1.png)
+
+---
+
+# 安装步骤2
+![](2.png)
+
+---
+
+# 安装步骤3
+![](3.png)
+
+---
+# 小组成员：黄坤 罗宇翔 肖天雄 邢茹 徐嘉曦  
+![](6.jpg)
