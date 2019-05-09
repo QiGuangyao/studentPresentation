@@ -1,4 +1,5 @@
 git init
+git add .
 git commit -m 'first_commit'
 git remote add origin https://github.com/QiGuangyao/studentPresentation.git
 git push origin master
