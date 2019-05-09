@@ -1,0 +1,21 @@
+Windowns系统
+0 下载安装git
+https://www.git-scm.com/download/
+安装完成后（可选）
+Windows下配置Git （https://blog.csdn.net/EXLsunshine/article/details/18939329)
+1 首次下载文件
+在Git CMD (Deprecated)命令行输入(可更改当前目录)：
+git clone https://github.com/QiGuangyao/studentPresentation.git
+2 更新文件夹
+1）在Git CMD (Deprecated)命令行更改当前目录到 /studentPresentation
+2）在Git CMD (Deprecated)命令行输入：
+git pull
+
+如果是Mac系统或已在windows下已配置Git
+1 首次下载文件
+可直接在系统cmd输入 
+git clone https://github.com/QiGuangyao/studentPresentation.git
+2 更新文件夹
+1）命令行更改当前目录到 /studentPresentation
+2）在命令行输入：
+git pull
