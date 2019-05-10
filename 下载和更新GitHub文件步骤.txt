@@ -13,7 +13,7 @@ git pull
 
 如果是Mac系统或已在windows下已配置Git
 1 首次下载文件
-可直接在系统cmd输入 
+可直接在系统cmd输入(可更改当前目录)： 
 git clone https://github.com/QiGuangyao/studentPresentation.git
 2 更新文件夹
 1）命令行更改当前目录到 /studentPresentation
