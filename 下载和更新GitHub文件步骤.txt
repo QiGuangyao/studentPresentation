@@ -19,3 +19,5 @@ git clone https://github.com/QiGuangyao/studentPresentation.git
 1）命令行更改当前目录到 /studentPresentation
 2）在命令行输入：
 git pull
+or
+git pull -f origin master
